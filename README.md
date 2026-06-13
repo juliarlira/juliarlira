@@ -44,6 +44,8 @@
 <li>Java Orientado a Objetos</li>
 <li>Banco de Dados SQL</li>
 <li>Lógica de Programação</li>
+<li>Governança de Dados</li>
+<li>Desenvolvimento Back-End com Python</li>
 <li>Inglês</li>
 </ul>
 
